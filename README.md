@@ -90,3 +90,29 @@ Top factors influencing purchase behavior:
 4. Spending Level
 
 Behavioral and seasonal factors had a greater impact than promotional factors such as discounts and promo codes.
+
+## Tech Stack
+
+**Language:** Python
+
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Mlxtend
+
+**Techniques & Algorithms:** Apriori, Association Rule Mining, RFM Analysis, K-Means Clustering, Random Forest Classification
+
+## Business Impact
+
+- Identified frequently purchased product combinations for cross-selling opportunities.
+- Segmented customers into actionable groups (Occasional, Regular, VIP).
+- Enabled personalized product, coupon, and advertisement recommendations.
+- Improved understanding of customer behavior and purchasing patterns.
+- Supported data-driven marketing and customer retention strategies.
+
+## Future Enhancements
+
+- Real-time recommendation engine
+- Collaborative filtering and hybrid recommendation systems
+- Deep learning-based customer behavior modeling
+- NLP-powered advertisement matching
+- Interactive analytics dashboard
+- Unified omnichannel recommendation platform
+- Live customer behavior tracking and dynamic segmentation
